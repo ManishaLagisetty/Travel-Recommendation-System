@@ -5,7 +5,7 @@ It is a common practice to seek recommendations when traveling to new places. We
 ### Technical_Report.pdf
 Technical Report of Travel Recommendation System
 
-###Presentation_Slies.pptx 
+### Presentation_Slies.pptx 
 Presentation Slides of Travel Recommendation System
 
 ### new_user_recommendation system.ipynb 
